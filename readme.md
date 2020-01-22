@@ -2,4 +2,5 @@
 
 ## Open below file:
 
-[open Me..!!!!] (../blob/master/dist/rs.html)
+
+[open Me..!!!!] (https://github.com/shalinifefar12/RS/blob/master/rs.html)
