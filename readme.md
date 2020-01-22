@@ -2,4 +2,4 @@
 
 ## Open below file:
 
-[open Me..!!!!] (../master/dist/rs.html)
+[open Me..!!!!] (../blob/master/dist/rs.html)
